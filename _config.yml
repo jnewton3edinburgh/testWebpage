@@ -1,5 +1,2 @@
-# Build settings
 markdown: kramdown
-#theme: minima
-#theme: "ed."
 remote_theme: "minicomp/ed"
